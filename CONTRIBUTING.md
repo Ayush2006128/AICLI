@@ -34,9 +34,9 @@ Have an idea to make AICLI better? We'd love to hear it! Open an issue with the 
 - A [Gemini API Key](https://aistudio.google.com/)
 
 ### Local Setup
-1. Fork and clone the repository:
+1. Fork and clone the repository: _DO NOT CLONE THIS REPO DIRECTLY_
    ```powershell
-   git clone https://github.com/YourUsername/AICLI.git
+   git clone https://github.com/YourUserName/AICLI.git
    cd AICLI
    ```
 2. Set up your API key for the session:
